@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-1772267e"],{"81a6":function(n,t,e){},9618:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"aboutus"})},s=[],c={name:"MobileAboutUs",props:{news:Object}},u=c,o=(e("a300"),e("2877")),i=Object(o["a"])(u,a,s,!1,null,"3dce2b10",null);t["default"]=i.exports},a300:function(n,t,e){"use strict";var a=e("81a6"),s=e.n(a);s.a}}]);
+//# sourceMappingURL=chunk-1772267e.d10bba12.js.map
